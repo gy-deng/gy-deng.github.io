@@ -7,15 +7,14 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng., Computer Science, [School of Computer Science and Engineering](https://cs.tjut.edu.cn/), [Tianjin University of Technology](https://www.tjut.edu.cn/), No.391, Binshui West Road, Xiqing District, Tianjin 300384, China, 09/2020-06/2024
+* M.S., Computer Science, [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/), No.1, Zengcuo Aun West Road, Xiamen, China, 09/2024-06/2027(projected), advisor: [Prof. Zhirong Shen](https://shenzr.github.io/)
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -25,17 +24,30 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+  * Supervisor: Professor Hub -->
+
+# Scholarship & Honorary Titles
+* **National Scholarships**, Ministry of Education, China, in 2022
+* **Excellent Student of Tianjin**, Tianjin Municipal Education Commission, China, in 2022
+* **Tianjin Municipal Government Scholarship**, Tianjin Municipal People's Government, China, in 2021
+
+# Competition
+* 2023-International Collegiate Programming Contest Asia Xi'an Regional Contest(**Silver** Medel)
+* 2022-China Collegiate Programming Contest, Weihai Site(**Bronze** Medal) 
+* 2023-Chinese Collegiate Computer Design Competition(**Second** prize)
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Scripting languages: python, perl, bash
+* Source control management: git
+* Real app experience: Nginx, Mysql, Redis
+* Backend development using Java
+* English
+  * CET 6: 507
+  * CET 4: 509
 
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -56,4 +68,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
