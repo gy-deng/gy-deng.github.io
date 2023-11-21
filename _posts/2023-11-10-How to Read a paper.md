@@ -48,4 +48,11 @@ tags:
 
 ​	At the end of this pass, you should be able to reconstruct the entire structure of the paper from memory, as well as be able to identify its strong and weak points. In particular, you should be able to **pinpoint implicit assumptions, missing citations to relevant work, and potential issues with experimental or analytical techniques.**
 
-
+## 阅读过程中的标记办法
+- 黄色：用于标记全文中使用最多次的重要观点、主题句、结论或论文中的关键信息。在阅读论文时，使用黄色标记最关键、最核心的内容。
+- 红色：次于黄色，用于标注较为重要的概念、术语或需要深入研究的部分。在论文中遇到需要深入理解或进一步了解的内容时，使用红色标注。
+- 绿色：标记学习或借鉴的语法结构、表达方式或写作技巧，排在第三。使用绿色标记那些你认为可以在自己的写作中借鉴的技巧或表达方式。
+- 蓝色：用于标注例子、数据、实验证据等支持性信息。在论文中遇到具体的例子或支持性数据时，使用蓝色进行标注。
+- 紫色：用于标注想要引用的关键引文或引用。在需要引用的地方，使用紫色进行标注。
+- 橘色：标记论文中的问题、疑虑或需要进一步研究的方面。在你对论文内容有疑虑或需要深入了解的地方，使用橘色进行标注。
+- 灰色：用于标注总结或结论部分，作为标注次数最少的颜色。在论文的总结或结论部分使用灰色进行标注。
