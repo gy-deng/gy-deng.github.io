@@ -9,15 +9,32 @@ redirect_from:
 ---
 
 # A short introduction
-I work in the field of Memory Index, Memory disaggregation,  Log-structured Merge (LSM) Tree and Time Series Database(TSDB). Now I've been admitted to the the School of Informatics at Xiamen University as a Master's Degree student. 
+I am a second-year masters's student at Xiamen University (XMU) under the guidance of [Prof. Zhirong Shen](https://shenzr.github.io/).
+Prior to attending XMU, I received a bachelor's degree at Tianjin University of Technology in 2020.
+I am working in the field of Disaggregated Memory, RDMA Network, and LSM-Tree.
+Previously, my research included memory indexing (e.g., hashing index).
+
+
+# Publications
+## [Pulse: Fine-Grained Hierarchical Hashing Index for Disaggregated Memory]()
+
+**Guangyang Deng**, Zixiang Yu, Zhirong Shen, Qiangsheng Su, Jiwu Shu
+
+Published in IEEE International Symposium on High-Performance Computer Architecture (**HPCA'26**), 2026
+
+## [MetoHash: A Memory-Efficient and Traffic-Optimized Hashing Index on Hybrid PMem-DRAM Memories](https://dl.acm.org/doi/10.1145/3712285.3759776)
+
+Zixiang Yu#, **Guangyang Deng**#, Zhirong Shen, Qiangsheng Su, Ronglong Wu, Xiaoli Wang, Quanqing Xu, Chuanhui Yang, Zhifeng Bao
+
+Published in Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (**SC'25**), 2025
+
+**MetoHash nominated for SC'25 Best Student Paper Award!**
+
 
 # Education
-![image-20231110100828931](https://trace7.oss-cn-beijing.aliyuncs.com/typora/image-20231110100828931.png)
-M.S., Computer Science, [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/), No.1, Zengcuo Aun West Road, Xiamen, China, 09/2024-06/2027(projected), advisor: [Prof. Zhirong Shen](https://shenzr.github.io/)
+M.S., Computer Science, [Xiamen University](https://www.xmu.edu.cn/), 2024-2027(projected), advisor: [Prof. Zhirong Shen](https://shenzr.github.io/)
 
-![img](https://trace7.oss-cn-beijing.aliyuncs.com/typora/logojsj.png)
-B.Eng., Computer Science, [School of Computer Science and Engineering](https://cs.tjut.edu.cn/), [Tianjin University of Technology](https://www.tjut.edu.cn/), No.391, Binshui West Road, Xiqing District, Tianjin 300384, China, 09/2020-06/2024
-GPA: **94.94**/100.00, **ranking first out of 597** in the School of Computer Science and Engineering
+B.Eng., Computer Science, [Tianjin University of Technology](https://www.tjut.edu.cn/), 2020-2024
 
 # Scholarship & Honorary Titles
 * **National Scholarships**, Ministry of Education, China, in 2022
@@ -25,6 +42,6 @@ GPA: **94.94**/100.00, **ranking first out of 597** in the School of Computer Sc
 * **Tianjin Municipal Government Scholarship**, Tianjin Municipal People's Government, China, in 2021
 
 # Competition
-* 2023-International Collegiate Programming Contest Asia Xi'an Regional Contest(**Silver** Medel)
+* 2023-International Collegiate Programming Contest Asia Xi'an Regional Contest(**Silver** Medal)
 * 2022-China Collegiate Programming Contest, Weihai Site(**Bronze** Medal) 
 * 2023-Chinese Collegiate Computer Design Competition(**Second** prize)

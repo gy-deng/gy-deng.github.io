@@ -11,20 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.Eng., Computer Science, [School of Computer Science and Engineering](https://cs.tjut.edu.cn/), [Tianjin University of Technology](https://www.tjut.edu.cn/), No.391, Binshui West Road, Xiqing District, Tianjin 300384, China, 09/2020-06/2024
-* M.S., Computer Science, [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/), No.1, Zengcuo Aun West Road, Xiamen, China, 09/2024-06/2027(projected), advisor: [Prof. Zhirong Shen](https://shenzr.github.io/)
+* M.S., Computer Science, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, 09/2024-06/2027(projected), advisor: [Prof. Zhirong Shen](https://shenzr.github.io/)
+* B.Eng., Computer Science, [Tianjin University of Technology](https://www.tjut.edu.cn/), Tianjin, China, 09/2020-06/2024
 
-<!-- Work experience
+Publications
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## [Pulse: Fine-Grained Hierarchical Hashing Index for Disaggregated Memory]()
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
+**Guangyang Deng**, Zixiang Yu, Zhirong Shen, Qiangsheng Su, Jiwu Shu
+
+Published in IEEE International Symposium on High-Performance Computer Architecture (**HPCA'26**), 2026
+
+## [MetoHash: A Memory-Efficient and Traffic-Optimized Hashing Index on Hybrid PMem-DRAM Memories](https://dl.acm.org/doi/10.1145/3712285.3759776)
+
+Zixiang Yu#, **Guangyang Deng**#, Zhirong Shen, Qiangsheng Su, Ronglong Wu, Xiaoli Wang, Quanqing Xu, Chuanhui Yang, Zhifeng Bao
+
+Published in Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (**SC'25**), 2025
+
+**MetoHash nominated for SC'25 Best Student Paper Award!**
+
+Project
+======
+## [Pulsar](https://github.com/apache/pulsar): Optimizing Negative Acknowledgement Memory Usage
+Contributed a memory-efficient redesign of the NegativeAcksTracker in Apache Pulsar C++ & Go Client, addressing
+excessive memory usage and redelivery inaccuracies under high-throughput workloads (PR: [C++ Client](https://github.com/apache/pulsar-client-cpp/pull/497) & [Go Client](https://github.com/apache/pulsar-client-go/pull/1410)).
+Replaced HashMap with a timestamp-bucketed structure, leveraging RoaringBitmap to compactly store entry IDs and reduce per-message
+memory overhead.
 
 # Scholarship & Honorary Titles
 * **National Scholarships**, Ministry of Education, China, in 2022
@@ -42,7 +54,6 @@ Skills
 * Scripting languages: python, perl, bash
 * Source control management: git
 * Real app experience: Nginx, Mysql, Redis
-* Backend development using Java
 * English
   * CET 6: 507
   * CET 4: 509
